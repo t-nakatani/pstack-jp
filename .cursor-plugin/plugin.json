@@ -1,0 +1,31 @@
+{
+  "name": "pstack-jp",
+  "displayName": "P-STACK 日本語版",
+  "version": "0.15.15",
+  "description": "少ないコードで高い品質を目指す、potetoのP-STACKの非公式日本語訳。原則・スキル・プレイブックを日本語で読むための翻訳版。",
+  "author": {
+    "name": "Lauren Tan"
+  },
+  "homepage": "https://github.com/t-nakatani/pstack-jp",
+  "repository": "https://github.com/t-nakatani/pstack-jp",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "pstack",
+    "poteto-mode",
+    "workflow",
+    "principles",
+    "agent-style",
+    "subagents",
+    "unslop"
+  ],
+  "category": "developer-tools",
+  "tags": [
+    "workflow",
+    "principles",
+    "review",
+    "planning"
+  ],
+  "skills": "./skills/",
+  "agents": "./agents/"
+}

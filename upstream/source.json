@@ -1,0 +1,11 @@
+{
+  "repository": "https://github.com/cursor/plugins",
+  "path": "pstack",
+  "commit": "ccb5507cec1546dc88135c1139c811e6c59115ba",
+  "version": "0.15.15",
+  "retrieved_on": "2026-10-09",
+  "snapshot": "upstream/pstack-en.tar.gz",
+  "snapshot_sha256": "a072c450336cb1fdf72ba267695d7b9a73e2a5ff5aa72b5ac173d5113f40bc80",
+  "markdown_files": 131,
+  "method": "Google Translateによる下訳、主要箇所の編集、構造の自動照合"
+}
